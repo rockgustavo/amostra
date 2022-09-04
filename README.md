@@ -1,4 +1,4 @@
-# Projeto de Testes para expor as tecnologias:
+# Protótipo para expor as tecnologias:
 
 ![Modelo](img/html5.png)
 ![Modelo](img/css3.png)
