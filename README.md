@@ -4,4 +4,4 @@
 ![Modelo](img/css3.png)
 ![Modelo](img/bootstrap.png)
 
-[https://rockgustavo.github.io/amostra/](https://rockgustavo.github.io/amostra/)
+Acesse: [https://rockgustavo.github.io/amostra/](https://rockgustavo.github.io/amostra/)
